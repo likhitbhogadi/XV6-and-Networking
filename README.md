@@ -38,7 +38,7 @@ Implemented a probabilistic scheduler using ticket allocation:
 - Modified `yield` to reset process time slices on voluntary CPU relinquishment
 
 #### MLFQ Analysis:
-![MLFQ Scheduling Visualization](Screenshot%20from%202024-10-12%2021-36-47.png)
+![MLFQ Scheduling Visualization](./mini-project-2-likhitbhogadi-master/Screenshot%20from%202024-10-12%2021-36-47.png)
 
 The visualization shows:
 - 3 priority levels (queues 0-2) with 5 processes tracked over time
